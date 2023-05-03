@@ -21,3 +21,6 @@ In order to receive and parse the data after sending the request, simply use the
       
 To receive the data in other languages, please refer to the ZMQ get started page: https://zeromq.org/get-started/
 
+The following is a UML diagram describing this relationship:
+
+![Screenshot 2023-05-03 at 9 01 37 PM](https://user-images.githubusercontent.com/91351068/236017480-a4847d80-573d-4ee5-af36-82835fd8cf08.png)
