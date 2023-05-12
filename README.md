@@ -1,6 +1,8 @@
 # Web Scraper Microservice
 Takes a URL for a Wikipedia page and returns all p children elements of the main body (class mw-parser-output) up until the first h2 element.
 
+To start the service, the python file web_scraper.py must be run locally.
+
 In order to request data from the service, connect to port 2007 using ZeroMQ. The code needed for port connection will vary depending on the language.
 For JavaScript(Node.js) connection setup, use the following code, taken from https://zeromq.org/get-started/ :
 
