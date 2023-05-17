@@ -21,7 +21,7 @@ while True:
     p_tag = {"elem": "div",
              "id": None,
              "class": "mw-parser-output"}
-    e_tag = {"elem": "h2",
+    e_tag = {"elem": "meta",
              "id": None,
              "class": None}
     t_tag = {"elem": "p",
